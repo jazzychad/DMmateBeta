@@ -12,7 +12,7 @@ Unzip the file on your computer. You will then have to unzip the DMmate.app.zip 
 
 ### Drag/drop to install
 
-Drag and drop the .mobileprovision and .app files onto the iTunes icon in your dock to install onto your phone.
+Drag and drop the .mobileprovision and .app files onto the iTunes icon in your dock to install onto your phone. This will only work if you are an official beta tester of DMmate and have given me your device UDID previously. Otherwise, you won't be able to run the app.
 
 ### Enjoy DMmate!
 
