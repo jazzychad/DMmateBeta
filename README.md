@@ -50,7 +50,7 @@ In order to have your DMs pushed straight to your phone in real-time, you need t
 1. Make sure you have enabled notification emails for DMs under your Twitter account.
 2. In your email client, create a filter and forward those emails to __prowl@push.tweetgrid.com__
 
-That special email address will take your DM email and immediately push the DM to your phone. This means no more polling and immediate updates!
+That special email address will take your DM email and immediately push the DM to your phone. This means immediate updates and no more polling!
 
 ## Features
 
