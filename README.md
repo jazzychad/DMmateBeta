@@ -48,7 +48,7 @@ I am a heavy user of DMs. I found that all other iPhone Twitter clients suck at 
 In order to have your DMs pushed straight to your phone in real-time, you need to do 2 things:
 
 1. Make sure you have enabled notification emails for DMs under your Twitter account.
-2. In your email client, create a filter and forward those emails to prowl@push.tweetgrid.com
+2. In your email client, create a filter and forward those emails to _prowl@push.tweetgrid.com_
 
 That special email address will take your DM email and immediately push the DM to your phone. This means no more polling and immediate updates!
 
@@ -83,6 +83,8 @@ This README should always be up to date, but there might be more info on the [wi
 
 ## How to submit feedback
 
-If you have a github account, you can submit bug reports, feature requests, and other feedback on the [Issues Page](http://github.com/jazzychad/DMmateBeta/issues) or you can send an email to *dmbeta at jazzychad dot net*
+If you have a github account, you can submit bug reports, feature requests, and other feedback on the [Issues Page](http://github.com/jazzychad/DMmateBeta/issues) or you can send an email to 
+
+_dmbeta at jazzychad dot net_
 
 ## Thanks for testing!
