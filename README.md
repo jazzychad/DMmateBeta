@@ -32,6 +32,7 @@ I am a heavy user of DMs. I found that all other iPhone Twitter clients suck at 
 * Polling only every 5 or 10 minutes
 * Non real-time push notifications
 * DMs are an afterthought after the rest of the Twitter features
+* DMs are shown "timeline" style (newest on top) - this is not how people normally read conversations
 
 ## Why does DMmate rock at DMs?
 
@@ -42,6 +43,7 @@ I am a heavy user of DMs. I found that all other iPhone Twitter clients suck at 
 * Threaded conversation views
 * Multiple accounts
 * Turns Twitter DMs into an IM application
+* DM conversations are read top down like the SMS app does.
 
 ## How to use Push Notifications for DMmate
 
